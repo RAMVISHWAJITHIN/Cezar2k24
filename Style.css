@@ -37,7 +37,9 @@ left: 16px;
 }
 body{
 background-image: url(Assets/ai.jpeg);
-
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
 
 }
