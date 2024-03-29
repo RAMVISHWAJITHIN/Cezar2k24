@@ -1,0 +1,743 @@
+*{
+  margin:0%;
+  padding: 0%;
+}
+
+.rvj123{
+  position: relative;
+  right: 20px;
+}
+.chandu{
+  position: relative;
+  right: 32px;
+}
+.pavan{
+  position: relative;
+left: 16px;
+}
+.arun{
+  position: relative;
+  left:14px;
+}
+.Slikitha{
+  position: relative;
+  left:6px;
+}
+.Deepak{
+  position: relative;
+  left:9px;
+}
+.sandeep{
+  position: relative;
+  left:9px;
+}
+.hacker{
+  position: relative;
+  right:18px;
+}
+body{
+background-image: url(Assets/ai.jpeg);
+
+
+
+}
+
+
+#rvj{
+  width:75%;
+  position: relative;
+  margin-right: 170px;
+  font-size:20px;
+}
+
+
+#cir{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.nav-item{
+ 
+  font-size:18px;
+}
+#home{
+  width:80%;
+  height:40%;
+  /* height:500px; */
+  margin-right: auto;
+  margin-left: auto;
+  object-fit: fill;
+}
+#about{
+  display:flex;
+  flex-direction: row;
+  
+}
+#about_img{
+  margin-left:10%;
+  /* margin-top: 9%; */
+}
+#about_content{
+  margin:3%;
+  /* font-family: 'Titillium Web', sans-serif; */
+  
+ 
+  font-size:20px;
+  /* margin: 2%; */
+}
+.coll-container{
+  width:85%;
+  position: relative;
+  left: 155px;
+  font-size:20px;
+}
+.coll-container1{
+  width:75%;
+  position: relative;
+  left: 155px;
+  font-size:20px;
+}
+#clg>span{
+  font-size:20px;
+  font-weight:900;
+}
+#about_header{
+  /* font-family: 'Righteous', cursive; */
+  /* font-family: "Montserrat", sans-serif; */
+ 
+  font-weight:700;
+  font-size:35px;
+  
+}
+.college{
+  margin-top: 30px;
+}
+#event_head{
+  
+  font-weight:700;
+  font-size:35px;
+  text-align:center;
+}
+#tech_head{
+  
+  
+  font-size:30px;
+  text-align:left;
+font-weight:700;}
+
+#technical_contents{
+  display: flex;
+  flex-direction: row;
+  
+}
+#nontech_head{
+  
+  font-weight:700;
+  font-size:30px;
+  text-align:left;
+}
+#nontechnical_contents{
+  display: flex;
+  flex-direction: row;
+  
+}
+.card-header{
+  
+  font-weight:700;
+  font-size:20px;
+}
+.card{
+  border:3px solid black;
+}
+.card-text{
+  font-size: 20px;
+  font-weight: 0%;
+}
+#mob_title{
+  
+  font-weight:700;
+  font-size:30px;
+  text-align:center;
+}
+#cult_title{
+  
+  font-weight:700;
+  font-size:30px;
+  text-align:center;
+}
+#video{
+  text-align:center;
+}
+#org_title{
+ 
+  font-weight:700;
+  font-size:30px;
+  text-align:center;
+}
+#Coordinators_title{
+ 
+  font-weight:700;
+  font-size:30px;
+  text-align:center;
+}
+#Coordinators_title12{
+ 
+  font-weight:700;
+  font-size:45px;
+  text-align:center;
+}
+
+#contact_title{
+  
+  font-weight:700;
+  font-size:30px;
+  text-align:center;
+}
+
+#Fest_cords{
+  display: flex;
+  flex-direction: row;
+  text-align:center;
+ 
+}
+#org_cards{
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* justify-content: center; */
+  display: flex;
+  
+}
+#cult-img{
+ width: 60%;
+ height: 400px;
+ object-fit: cover;
+}
+#video-content{
+  width: 60%;
+ height: 400px;
+}
+#events{
+  display:flex;
+  justify-content: center;
+ 
+}
+.ev-head1{
+  position: relative;
+  left: 50px;
+  
+  font-weight:800;
+  font-size:55px;
+  text-align:center;
+
+}
+#naac{
+  position: relative;
+  right :100px;
+  bottom:30px;
+
+}
+.code{
+position: relative;
+top:10px;
+left:75px;
+}
+.quiz{
+  position:relative;
+  left:75px;
+  top:14px;
+
+ 
+}
+.vish{
+  position:relative;
+  left:75px;
+  top:14px;
+
+ 
+}
+.mem{
+  position:relative;
+  left:75px;
+  top:14px;
+
+ 
+}
+.arm{
+  position:relative;
+  left:75px;
+  top:44px;
+
+ 
+}
+.tress{
+  position:relative;
+  left:75px;
+ 
+
+ 
+}
+.art{
+  position:relative;
+  left:75px;
+  top:50px;
+ 
+
+ 
+}
+.ppt{
+  position:relative;
+  left:75px;
+  top:60px;
+ 
+
+ 
+}
+#carouselExampleControls{
+  width: 80%;
+  height: 50%;
+  position:relative;
+  left:220px;
+}
+#flashmob{
+width: 80%;
+  position:relative;
+  left:220px;
+  font-size: 25px;
+  font-weight: normal;}
+.box{
+  position: relative;
+  left:220px;
+}
+.cult{
+  width: 80%;
+    position:relative;
+    left:220px;
+    font-size: 25px;
+    font-weight: normal;}
+#mob_title{
+  font-size: 60px;
+}
+#cult_title{
+  font-size: 60px;
+}
+#Coordinators{
+  position: relative;
+  left: 180px;
+  bottom: 170px;
+}
+#Coordinators_title{
+  position: relative;
+  right: 30px;
+  font-size: 50px;
+  bottom: 170px;
+}
+
+#org_title{
+  position: relative;
+  font-size: 50px;
+}
+.insta{
+  
+  height: 70px;
+}
+.gmail{
+ 
+  height: 70px;
+}
+.rvj{
+  position: relative;
+  left: 150px;
+}
+#about_img2{
+  position: relative;
+  left: 40px;
+}
+.font{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.hod{
+  font-weight: 700;
+  font-size: 27px;
+  margin-left: 40px;
+}
+#Coordinators_description{
+  width:100%;
+}
+.faculty{
+  position:relative;
+  top: 30px;
+  max-width: 540px;
+  left: 44rem;
+}
+#convenor{
+  font-weight: 600;
+}
+.fact{
+  display: inline;
+position: relative; 
+top:11px;
+right: 120px;
+
+}
+.faculty1{
+  position: relative; 
+  right: 110px;
+}
+.faculty2{
+  position: relative;
+   bottom: 136px; 
+   left:130px;
+}
+
+@media only screen and (max-width: 600px) {
+  
+  #about{
+    display:flex;
+    flex-direction: column;
+    
+  }
+  .carousel-inner{
+    width: 150%;
+    height: 400px;
+    position: relative;
+    right: 170px;
+  }
+  
+  #technical_contents{
+    display:flex;
+    flex-direction: column;
+   /* text-align: center; */
+    margin-top:2rem;
+
+  }
+  #nontechnical_contents{
+    display:flex;
+    flex-direction: column;
+    margin-top:2rem;
+
+  }
+  #circle {
+    width: 50px;
+   height: 50px;
+   background-color: red;
+   /* Center horizontally*/
+   margin: 0 auto;
+    justify-content: center;
+  }
+  #org_cards{
+    flex-direction: column;
+  }
+  .card{
+    margin-left: auto;
+    margin-left: auto;
+    margin-top: 2rem;
+  }
+  #Fest_cords{
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+   
+  }
+  .nacc-img{
+   width: 350px;
+   height: 200px;
+  }
+  #about_img{
+    position: relative;
+    right:50px;
+    
+    
+    
+  }
+  #about_img1{
+    position: relative;
+    left:50px;
+    
+    
+    
+  }
+  #about_img2{
+    width: 70%;
+    position: relative;
+    left:50px;
+    
+    
+    
+  }
+  .about_img3{
+    width: 100%;
+    height: 200px;
+    position: relative;
+    object-fit:fill;
+    
+    
+    
+  }
+  .dep-img{
+    width: 70%;
+   height: 250px;
+   position: relative;
+   left:20px;
+  }
+  
+  #cult-img{
+    width: 60%;
+    height: 200px;
+    object-fit: cover;
+   }
+   #video{
+    
+    position: relative;
+    right:170px;
+    margin-bottom: 20px;
+    
+   }
+   #video-content{
+    width: 90%;
+   height: 250px;
+  }
+  #cult-img{
+    width: 50%;
+    height: 250px;
+  }
+  
+  .para{
+    position: relative;
+    right: 100px;
+  }
+  .para1{
+    position: relative;
+    left:20px;
+  }
+  .para2{
+    position: relative;
+    right: 150px;
+  }
+  .para3{
+    position: relative;
+    right: 20px;
+    font-size: 20px;
+  }
+  .para4{
+    position: relative;
+    right: 20px;
+    font-size: 20px;
+  }
+ #org_title{
+  font-size: 34px;
+ }
+
+  #event-title{
+   position:relative;
+  margin-right: 220px;
+    
+  }
+  .box{
+    position:relative;
+  margin-right: 410px;
+    
+  }
+  .flash{
+    width: 60%;
+  }
+  .cult{
+    width: 50%;
+  }
+  #technical{
+    position:relative;
+    
+  }
+  #Coordinators{
+    position: relative;
+    margin-left: 75px;
+  }
+  #Coordinators_title{
+    position: relative;
+    right:10px;
+    font-size: 30px;
+  }
+  #Coordinators_description{
+    position: relative;
+    right: 140px;
+  }
+  .coll-container1{
+    width: 80%;
+  }
+  .carousel-inner{
+    position: relative;
+    right: 200px;
+    width: 380px;
+    height: 250px;
+  }
+  .d-block{
+
+    width: 380px;
+    height: 250px;
+  }
+  .ppt{
+    position:relative;
+    margin-bottom: 50px;
+   
+  
+   
+  }
+  .arm{
+    position:relative;
+    margin-bottom: 50px;
+  
+   
+  }
+  .art{
+    position:relative;
+    margin-bottom: 50px;
+   
+  
+   
+  }
+  .fest12{
+     position: relative;
+     right: 270px;
+  }
+  
+  .hod12{
+    position: relative;
+     right: 25px;
+  }
+
+  
+  .faculty1{
+    
+    position: relative;
+      right: 220px;
+    }
+  .faculty2{
+   
+      position: relative;
+        right: 220px;
+        
+      }
+  .faculty{
+    
+        position:relative;
+        right:150px;
+  }
+  #raj{
+    position: relative;
+   
+  }
+  .raj{
+    position: relative;
+    right: 70px;
+    height: 100px;
+    width: 100px;
+  }
+  .raja{
+    position: relative;
+    right: 530px;
+    top:115px;
+    height: 100px;
+    width: 100px;
+  }
+  .faculty1{
+    position: relative;
+    
+   font-size: small;
+    
+  }
+  .faculty2{
+    position: relative;
+    
+    
+  }
+  .faculty-title{
+    position: relative;
+    right: 70px;
+
+    font-size: small;
+  }
+  .faculty-title1{
+    position: relative;
+    right: 530px;
+    top:115px;
+
+    font-size: small;
+  }
+  .faculty-text{
+    position: relative;
+    right: 80px;
+    font-size: 10px;
+  }
+  .faculty-text1{
+    position: relative;
+    right: 570px;
+    top:118px; 
+    font-size: 10px; }
+  .ram{
+    font-weight: 900;
+    font-size: 15px;
+  }
+  #Coordinators_title12{
+    font-size: 35px;
+  }
+}
+/*
+<!--faculty-->
+<div id="Coordinators_title" class="Ram">Faculty Coordinators</div>
+<div class="faculty">
+  <div class="faculty1 ">
+      <div class="faculty1" >
+          <div class="faculty12">
+              <img src="./assets/rajeshsir.jpeg" height="200px" width="200px" style="object-fit:cover; border: 3px solid black;"
+                   alt="...">
+          </div>
+          <div class="faculty123">
+              <div class="faculty-body">
+                  <h5 class="faculty-title">Mr. B. Rajesh</h5>
+                  <p class="faculty-text">Asst.Prof(C),Dept. of IT,JNTUH UCEJ</p>
+                  
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="faculty" >
+  <div class="faculty2 mb-3">
+      <div class="faculty1">
+          <div class="faculty12">
+              <img src="./assets/rajashekar.jpeg" style="border: 3px solid black;" height="200px" width="200px" style="object-fit:contain;"
+                   alt="...">
+          </div>
+          <div class="faculty123">
+              <div class="faculty-body">
+                  <h5 class="faculty-title">Mr. T. Rajashekar</h5>
+                  <p class="faculty-text">Asst.Prof(C),Dept. of IT,JNTUH UCEJ</p>
+                  
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+
+
+<!--<div class="fact">
+<div class="card mb-3" id="raj" style="max-width: 20rem; max-height: 14rem;border:3px solid black;">
+  <div class="card-header123 card-header " style="border-bottom: 5px solid black;">Faculty Coordinators</div>
+  <div class="card-body123 ">
+      <h5 class="card-title">Mr. B. Rajesh    -<a href="tel:9573878001">9573878001</a></h5>
+      <h6>Asst.Prof(C),Dept. of IT,JNTUH UCEJ</h6>
+      <hr>
+      <h5 class="card-title">Mr. T. Rajashekar<a href="tel:9381258872">9381258872</a></h5>
+      <h6>Asst.Prof(C),Dept. of IT,JNTUH UCEJ</h6>
+      
+    
+
+  </div>
+</div>
+</div>
+*/
